@@ -1,0 +1,8 @@
+word-map-view {
+  display: flex;
+  height: 100%;
+}
+
+word-map-view .map {
+  flex: 1;
+}
